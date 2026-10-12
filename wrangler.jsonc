@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "openapi",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "system-artifacts",
+			"database_id": "5b9439bf-98db-4e68-a9eb-d4d3dba41aa8"
+		}
+	]
+}
